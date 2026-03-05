@@ -1,4 +1,4 @@
-# WooCommerce Serbian Latin Translation (sr_RS – Latinica)
+# WooCommerce Serbian Latin (sr_RS – Latinica)
 
 ## Compatibility
 
