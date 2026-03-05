@@ -35,8 +35,7 @@ Designed specifically for Serbian market WooCommerce stores.
 
 ## File Naming Convention
 
-woocommerce-sr_RS.po  
-woocommerce-sr_RS.mo  
+woocommerce-sr_RS.po 
 
 ## Notes
 
