@@ -21,7 +21,7 @@ Designed specifically for Serbian market WooCommerce stores.
 
 ## Installation
 
-1. Upload the `.po` and `.mo` files to:
+1. Upload the `.po` file to:
 
    wp-content/languages/plugins/
 
