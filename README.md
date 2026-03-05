@@ -1,7 +1,5 @@
 # WooCommerce Serbian Latin Translation (sr_RS – Latinica)
 
-Custom Serbian (Latin script) translation for WooCommerce.
-
 ## Compatibility
 
 - WooCommerce: 10.5.5 and lower
