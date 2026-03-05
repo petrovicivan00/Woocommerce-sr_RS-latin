@@ -4,8 +4,7 @@ Custom Serbian (Latin script) translation for WooCommerce.
 
 ## Compatibility
 
-- WordPress: 6.9.1
-- WooCommerce: 10.5.5
+- WooCommerce: 10.5.5 and lower
 
 ## About
 
